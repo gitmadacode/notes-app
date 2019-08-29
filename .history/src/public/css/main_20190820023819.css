@@ -1,0 +1,8 @@
+body {
+    background-image: url("images/aft.jpg");
+    height: 100vh;
+ 
+ /* Flexbox */
+ display: flex;
+ align-items: center;
+}

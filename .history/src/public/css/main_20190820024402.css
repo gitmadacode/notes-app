@@ -1,0 +1,10 @@
+body {
+    
+    background-image: url("images/aft.jpg");
+  
+}
+.jumbotron{
+    background-image: url("images/tula.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   }

@@ -1,0 +1,6 @@
+body {
+    
+    background-image: url("images/aft.jpg");
+    max-width:100%;      /* Aquí el tamaño máximo de tus imágenes */
+  height:auto;
+}

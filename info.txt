@@ -1,0 +1,1 @@
+este proyecto esta realizado en node.js y enlazado con una base de datos mongodb
